@@ -1,6 +1,6 @@
-﻿# BTF Shared Content
+# BTF Shared Content
 
-This repository contains shared content for Better-than-Freehold websites.
+This repository contains shared content for Better-than-Freehold™ websites.
 
 ## Structure
 - posts/ - Blog posts and articles
